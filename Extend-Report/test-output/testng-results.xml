@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-18T17:01:33 IST" name="Default suite" finished-at="2023-12-18T17:03:34 IST" duration-ms="120683">
+    <groups>
+    </groups>
+    <test started-at="2023-12-18T17:01:33 IST" name="Default test" finished-at="2023-12-18T17:03:34 IST" duration-ms="120683">
+      <class name="Phase2.Extend_Report.amazon.AmazonSearchTest">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:Phase2.Extend_Report.amazon.AmazonSearchTest@351d00c0]" started-at="2023-12-18T17:01:33 IST" name="beforeClass" finished-at="2023-12-18T17:03:21 IST" duration-ms="107441" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="testSearch1()[pri:0, instance:Phase2.Extend_Report.amazon.AmazonSearchTest@351d00c0]" started-at="2023-12-18T17:03:21 IST" name="testSearch1" description="Search Iphone 15 pro max" finished-at="2023-12-18T17:03:25 IST" duration-ms="4097" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearch1 -->
+        <test-method signature="testSearch2()[pri:0, instance:Phase2.Extend_Report.amazon.AmazonSearchTest@351d00c0]" started-at="2023-12-18T17:03:25 IST" name="testSearch2" description="Search Apple Mac book" finished-at="2023-12-18T17:03:28 IST" duration-ms="2994" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearch2 -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:Phase2.Extend_Report.amazon.AmazonSearchTest@351d00c0]" started-at="2023-12-18T17:03:28 IST" name="afterClass" finished-at="2023-12-18T17:03:34 IST" duration-ms="5955" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- Phase2.Extend_Report.amazon.AmazonSearchTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

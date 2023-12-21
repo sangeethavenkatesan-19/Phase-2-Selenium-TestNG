@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="griddemos" verbose="1" parallel="true" thread-count="2">
+  <test name="Girddemo-standAlone" >
+    <classes>
+       <class name="Phase2.SeleniumGRID.StandAloneFirefox" />
+        <class name="Phase2.SeleniumGRID.StandAloneChrome" />
+    </classes>
+  </test>
+</suite>
